@@ -1,6 +1,6 @@
 ### Hello people!
 🔭 Welcome to my profile!
-Contats:
+### Contats:
 Telegram: @GiaNTizmO
 Gamania.Ru
 
