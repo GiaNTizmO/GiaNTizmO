@@ -1,8 +1,8 @@
 ### Hello people!
-### 🔭 Welcome to my profile!
-### Contats:
-### Telegram: @GiaNTizmO
-### Gamania.Ru
+🔭 Welcome to my profile!
+Contats:
+Telegram: @GiaNTizmO
+Gamania.Ru
 
 <!--
 **GiaNTizmO/GiaNTizmO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
