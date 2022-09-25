@@ -2,7 +2,8 @@
 
 Hi people! 
 
-The world is on the brink of nuclear war and my country is actively forcing citizens to go to war. On the 30th, something terrible might happen, so I'm not sure if I'll come back here next time. If after some time you read this text, then I envy you, because you somehow survived, for us this is an exorbitant preference. Thank you and good luck to live, 
+The world is on the brink of nuclear war and my country is actively forcing citizens to go to war.
+On the 30th September 2022, something terrible might happen, so I'm not sure if I'll come back here next time. If after some time you read this text, then I envy you, because you somehow survived, for us this is an exorbitant preference. Thank you and good luck to live, 
 I hope the world will become cleaner.
 
 "Everything that is not done is done for the better"
