@@ -6,7 +6,8 @@ The world is on the brink of nuclear war and my country is actively forcing citi
 I hope the world will become cleaner.
 
 "Everything that is not done is done for the better"
- Khartumov Alikhan, 05/24/1999
+
+Khartumov Alikhan, 05/24/1999
  
 ### I hope I survive and delete this ridiculous statement ;)
 
