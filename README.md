@@ -1,3 +1,4 @@
+<!--
 # ⚠️ Maybe the owner of this profile is dead.
 
 Hi people! 
@@ -11,7 +12,7 @@ I hope the world will become cleaner.
 Khartumov Alikhan, 05/24/1999
  
 ### I hope I survive and delete this ridiculous statement ;)
-
+-->
 
 ### Hello people!
 🔭 Welcome to my profile!
