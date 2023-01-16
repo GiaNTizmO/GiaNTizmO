@@ -21,7 +21,7 @@ Telegram: @GiaNTizmO
 
 Gamania.Ru
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=GiaNTizmO&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/naveed-ahmad)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=GiaNTizmO&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/)
 
 <!--
 **GiaNTizmO/GiaNTizmO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
