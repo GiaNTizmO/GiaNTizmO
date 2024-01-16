@@ -19,7 +19,7 @@ Khartumov Alikhan, 05/24/1999
 ### Contacts:
 Telegram: @GiaNTizmO
 
-Gamania.Ru
+<!--Gamania.Ru -->
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=GiaNTizmO&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaNTizmO)](https://github.com/GiaNTizmO)
