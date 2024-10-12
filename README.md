@@ -26,7 +26,7 @@ public static class Gamania
     private static void __my_sysadm_info()
     {
         Console.WriteLine($"🧰My sys admin skills: {"Linux"} {"MS Server"} {"Network administrator"}");
-        Console.WriteLine($"🔗Used technologies: {"Virtualization (ESXi/Proxmox/Hyper-V/KVM)"} {"Containers (Docker/LXC)"} {"LAN/VLAN/PPPoE/PPTP/IPoe (Option 82)"} {"LSI IT RAID"} {"FreePBX/Asterisk"} {"Managed Switch (D-Link, Cisco NX-series, SNR")}");
+        Console.WriteLine($"🔗Used technologies: {"Virtualization (ESXi/Proxmox/Hyper-V/KVM)"} {"Containers (Docker/LXC)"} {"LAN/VLAN/PPPoE/PPTP/IPoe (Option 82)"} {"LSI IT RAID"} {"FreePBX/Asterisk"} {"Managed Switch (D-Link, Cisco NX-series, SNR)"}");
     }
 
     public static void Main() => Console.WriteLine("Bye!👋🏻 See you again.🫡");
