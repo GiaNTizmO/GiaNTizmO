@@ -1,35 +1,83 @@
-```csharp
-public static class Gamania
-{
-    static Gamania()
-    {
-        Console.WriteLine("Hi!");
-        __my_dev_info();
-        __my_sysadm_info();
-    }
+<div align="center">
 
-    private static Dictionary<string, string> Links = new()
-    {
-        ["Telegram"] = "https://t.me/NtRaiseException",
-        ["Email"] = "contact@gamania.me",
-        ["SecondEmail"] = "contacts@national.shitposting.agency",
-    };
+<h1>Gamania</h1>
 
-    private static void __my_dev_info()
-    {
-        Console.WriteLine($"🧑🏼‍💻My dev lang Skills: {"C#"} {"C"} {"C++"} {"Java"} {"Vue"}");
-        Console.WriteLine($"👀Newbie in: {"Rust"} {"Dart"} {"Golang"} {"React"}");
-        Console.WriteLine($"⚙️Reversing:{"MS/IL"} {"i386"} {"amd64"}  {"JVM"}");
-        Console.WriteLine($"💉Works with: {"Audio and video processing"} {"Fast parallel multithread backends"} {"Network Protocols"}");
-        Console.WriteLine($"🔨Most commonly used technologies stack: {"FPM/nFPM"} {"CI/CD"} {"Git"} {"CppSharp"} {"VMProtect"} {"ASP.NET"} {"SignalR"}");
-    }
+<p>
+  Fullstack Developer · Reverse Engineering · Infrastructure · Networking
+</p>
 
-    private static void __my_sysadm_info()
-    {
-        Console.WriteLine($"🧰My sys admin skills: {"Linux"} {"MS Server"} {"Network administrator"}");
-        Console.WriteLine($"🔗Used technologies: {"Virtualization (ESXi/Proxmox/Hyper-V/KVM)"} {"Containers (Docker/LXC)"} {"LAN/VLAN/PPPoE/PPTP/IPoe (Option 82)"} {"LSI IT RAID"} {"FreePBX/Asterisk"} {"Managed Switch (D-Link, Cisco NX-series, SNR)"}");
-    }
 
-    public static void Main() => Console.WriteLine("Bye!👋🏻 See you again.🫡");
-}
-```
+
+<hr>
+</div>
+<pre>
+$ whoami
+
+Fullstack developer and infrastructure engineer focused on practical low-level systems.
+
+Main areas:
+  • Fullstack development with C#, ASP.NET, Vue/Nuxt and Flutter
+  • Backend architecture, realtime APIs and multithreaded systems
+  • Reverse engineering and MSIL / CLR tooling
+  • Linux and Windows Server administration
+  • Networking, routing, proxies and OpenWrt
+  • Virtualization, containers and CI/CD
+  • VoIP, FFmpeg and realtime media systems
+</pre>
+<div align="center">
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Code</h3>
+      <p>
+        C# / ASP.NET<br>
+        Vue / Nuxt<br>
+        Flutter / Dart<br>
+        C / C++<br>
+        Java<br>
+        Rust / Go learning
+      </p>
+    </td>
+    <td width="33%">
+  <h3>Reverse</h3>
+  <p>
+    MSIL / CLR<br>
+    x86 / x64<br>
+    JVM bytecode<br>
+    PE / ELF basics<br>
+    Static and dynamic analysis<br>
+    Deobfuscation basics
+  </p>
+</td>
+    <td width="33%">
+      <h3>Infra</h3>
+      <p>
+        Linux<br>
+        Windows Server<br>
+        Proxmox / ESXi / KVM<br>
+        Docker / LXC<br>
+        OpenWrt / FreePBX / Asterisk
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+</div>
+
+<div align="center">
+
+<p>
+  I like building tools that connect fullstack development, infrastructure,
+  reverse engineering and network engineering.
+</p>
+
+<p>
+  <a href="https://t.me/NtRaiseException">Telegram</a>
+  ·
+  <a href="mailto:contact@gamania.me">contact@gamania.me</a>
+</p>
+
+</div>
+
+<!-- NtRaiseException(STATUS_PROFILE_VISITED); -->
